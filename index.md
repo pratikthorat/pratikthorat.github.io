@@ -13,10 +13,11 @@
         <div class="cred-logo">
           <img src="logo.png" alt="CRED logo">
         </div>
-        <!-- <div class="cred-search-bar">
-          <input type="search" placeholder="Search for products" class="dark-input">
-          <button type="submit" class="dark-button">Search</button>
-        </div> -->
+        <div class="cred-search-bar">
+          <h1>Amazon Product Recommender GPT</h1>
+          <!-- <input type="search" placeholder="Search for products" class="dark-input">
+          <button type="submit" class="dark-button">Search</button> -->
+        </div>
       </div>
     </header>
     <main class="cred-main">
