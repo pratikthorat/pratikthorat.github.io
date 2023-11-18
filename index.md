@@ -63,7 +63,7 @@
         <div class="cred-product-card">
           <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=megha1706-21&language=en_IN&marketplace=amazon&region=IN&placement=B08J4NMBL2&asins=B08J4NMBL2&linkId=b750d1065ea0fcb5733968d891f444ed&show_border=true&link_opens_in_new_window=true"></iframe>
   <div class="product-details">
-            <h3>Product 1</h3>
+            <h3>Braun Face Mini Hair Remover FS1000, Electric Facial Hair Removal for Women, Quick, Gentle & Painless, Smooth Skin, Ideal for On-The-Go, with Smartlight</h3>
             <div class="product-review">
               <div class="product-rating">
                 <span class="rating">4.5</span>
@@ -109,7 +109,7 @@
         <div class="cred-product-card">
           <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=megha1706-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B11LJ69K&asins=B0B11LJ69K&linkId=21033db5677382c0eb4ab324018fce5c&show_border=true&link_opens_in_new_window=true"></iframe>
           <div class="product-details">
-            <h3>Product 1</h3>
+            <h3>Logitech MX Master 3S - Wireless Performance Mouse with Ultra-Fast Scrolling, Ergo, 8K DPI, Track on Glass, Quiet Clicks, USB-C, Bluetooth, Windows, Linux, Chrome-Graphite</h3>
             <div class="product-review">
               <div class="product-rating">
                 <span class="rating">4.5</span>
