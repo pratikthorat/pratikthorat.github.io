@@ -58,7 +58,8 @@
         <p>Amazon's dominance in the e-commerce landscape is no coincidence. It has consistently adapted to evolving consumer needs and preferences, staying ahead of the curve and setting the benchmark for online shopping.</p>
         <p>Whether you're a seasoned online shopper or a newcomer to the digital world, Amazon offers an unmatched shopping experience that is both convenient and rewarding. So, the next time you're looking to make a purchase, consider Amazon first. You won't be disappointed.</p>
         <div class="cta">
-            <a href="#">Start Shopping on Amazon</a>
+            <p>Start Shopping on Amazon</p>
+             <iframe src="//c.amazon-adsystem.com/aax2/assoc_lra.html?tag=megha1706-21&amp;c=100&amp;src=302&amp;sz=300x250" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
         </div>
               </div>
             </div>
