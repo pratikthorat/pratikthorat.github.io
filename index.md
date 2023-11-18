@@ -23,7 +23,9 @@
     <main class="cred-main">
       <div class="cred-product-list">
         <div class="cred-product-card">
+        <div class="cred-product-image">
           <iframe src="//c.amazon-adsystem.com/aax2/assoc_lra.html?tag=megha1706-21&amp;c=100&amp;src=302&amp;sz=300x250" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          <div>
           <div class="product-details">
             <h3>As an Official Amazon Associate, I earn from qualifying purchases.</h3>
             <div class="product-review">

@@ -62,6 +62,12 @@ body {
     text-align: left;
 }
 
+.cred-product-image {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 .cred-product-card img {
     width: 100%;
     height: 200px;
