@@ -25,7 +25,7 @@
         <div class="cred-product-card">
         <div class="cred-product-image">
           <iframe src="//c.amazon-adsystem.com/aax2/assoc_lra.html?tag=megha1706-21&amp;c=100&amp;src=302&amp;sz=300x250" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-          <div>
+          </div>
           <div class="product-details">
             <h3>As an Official Amazon Associate, I earn from qualifying purchases.</h3>
             <div class="product-review">
@@ -35,7 +35,6 @@
         <p>From its vast selection of products to its user-friendly interface and lightning-fast delivery, Amazon has revolutionized the way we shop. Whether you're looking for the latest gadgets, trendy apparel, or everyday essentials, Amazon has it all, and at prices that are hard to beat.</p>
         <div class="advantages">
             <h2>The Advantages of Shopping on Amazon</h2>
-
             <ul>
                 <li>Unparalleled Product Selection: Amazon boasts an extensive catalog of products spanning every imaginable category, from electronics and home goods to fashion and beauty.</li>
                 <li>Seamless User Experience: Navigating Amazon's website and app is a breeze. The intuitive search function, user-friendly interface, and detailed product descriptions make it easy to find what you're looking for.</li>
@@ -48,14 +47,18 @@
         <p>Whether you're a seasoned online shopper or a newcomer to the digital world, Amazon offers an unmatched shopping experience that is both convenient and rewarding. So, the next time you're looking to make a purchase, consider Amazon first. You won't be disappointed.</p>
         <div class="cta">
             <p>Start Shopping on Amazon</p>
+             <div class="cred-product-image">
              <iframe src="//c.amazon-adsystem.com/aax2/assoc_lra.html?tag=megha1706-21&amp;c=100&amp;src=302&amp;sz=300x250" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+             </div>
         </div>
               </div>
             </div>
           </div>
         </div>
         <div class="cred-product-card">
+         <div class="cred-product-image">
           <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=megha1706-21&language=en_IN&marketplace=amazon&region=IN&placement=B08J4NMBL2&asins=B08J4NMBL2&linkId=b750d1065ea0fcb5733968d891f444ed&show_border=true&link_opens_in_new_window=true"></iframe>
+          </div>
   <div class="product-details">
             <h3>Braun Face Mini Hair Remover FS1000, Electric Facial Hair Removal for Women, Quick, Gentle & Painless, Smooth Skin, Ideal for On-The-Go, with Smartlight</h3>
             <div class="product-review">
@@ -102,7 +105,9 @@
           </div>
         </div>
         <div class="cred-product-card">
+         <div class="cred-product-image">
           <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=megha1706-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B11LJ69K&asins=B0B11LJ69K&linkId=21033db5677382c0eb4ab324018fce5c&show_border=true&link_opens_in_new_window=true"></iframe>
+          </div>
           <div class="product-details">
             <h3>Logitech MX Master 3S - Wireless Performance Mouse with Ultra-Fast Scrolling, Ergo, 8K DPI, Track on Glass, Quiet Clicks, USB-C, Bluetooth, Windows, Linux, Chrome-Graphite</h3>
             <div class="product-review">
@@ -150,7 +155,9 @@
           </div>
         </div>
         <div class="cred-product-card">
+         <div class="cred-product-image">
           <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=megha1706-21&language=en_IN&marketplace=amazon&region=IN&placement=B0CB49BY93&asins=B0CB49BY93&linkId=c1a9a2b0a81737d0f4aae564ccf6408a&show_border=true&link_opens_in_new_window=true"></iframe>
+          </div>
            <div class="product-details">
             <h3>Yaber K2s FHD Projector with WiFi 6, Bluetooth, Built-in TV Dongle, Dolby Audio, 800 ANSI Outdoor Projector, Native 1080P 4K Supported, Auto Focus & Keystone Movie Projector with 7000+ Apps</h3>
             <div class="product-review">
@@ -200,7 +207,9 @@
           </div>
         </div>
         <div class="cred-product-card">
+         <div class="cred-product-image">
           <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=megha1706-21&language=en_IN&marketplace=amazon&region=IN&placement=B0BMPPSLHZ&asins=B0BMPPSLHZ&linkId=3501565615debcc55110aafdbd98f841&show_border=true&link_opens_in_new_window=true"></iframe>
+          </div>
           <div class="product-details">
             <h3>ASUS Vivobook Pro 15 OLED, AMD Ryzen 5 5600H, 15.6" (39.62 cm) FHD OLED, Thin & Light Laptop (16GB/512GB SSD/4GB RTX 3050/Windows 11/Office 2021/Backlit KB/FP Sensor/Silver/1.65 kg), M3500QC-L1502WS</h3>
             <div class="product-review">
@@ -246,7 +255,9 @@
           </div>
         </div>
         <div class="cred-product-card">
+         <div class="cred-product-image">
           <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=megha1706-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B71N6BSJ&asins=B0B71N6BSJ&linkId=c04d9d104f64d347cf8f856457eeafde&show_border=true&link_opens_in_new_window=true"></iframe>
+          </div>
           <div class="product-details">
             <h3>Logitech MX Master 3S - Wireless Performance Mouse with Ultra-Fast Scrolling, Ergo, 8K DPI, Track on Glass, Quiet Clicks, USB-C, Bluetooth, Windows, Linux, Chrome-Graphite</h3>
             <div class="product-review">
