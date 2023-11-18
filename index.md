@@ -5,32 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amazon product recommender gpt</title>
     <link rel="stylesheet" href="style.css">
-    <script>
-        window.addEventListener('load', function() {
-  // Find the element to be removed
-  var elementToRemove = document.querySelector('h1 a[href="https://pratikthorat.github.io/"]');
-  
-  // Check if the element exists before attempting to remove it
-  if (elementToRemove) {
-    // Remove the element
-    elementToRemove.parentNode.remove(); // Removes the <h1> element containing the link
-    // Alternatively, if you want to remove just the link (<a> element) and keep the <h1>, you can use:
-    // elementToRemove.remove(); // Removes just the <a> element
-  }
-});
-    </script>
   </head>
 
   <body class="dark-theme">
     <header class="cred-header">
       <div class="cred-header-container">
         <div class="cred-logo">
-          <img src="cred-logo-white.png" alt="CRED logo">
+          <img src="logo.png" alt="CRED logo">
         </div>
-        <div class="cred-search-bar">
+        <!-- <div class="cred-search-bar">
           <input type="search" placeholder="Search for products" class="dark-input">
           <button type="submit" class="dark-button">Search</button>
-        </div>
+        </div> -->
       </div>
     </header>
     <main class="cred-main">
