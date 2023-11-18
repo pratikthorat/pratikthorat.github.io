@@ -5,6 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amazon product recommender gpt</title>
     <link rel="stylesheet" href="style.css">
+    <script>
+        window.addEventListener('load', function() {
+  // Find the element to be removed
+  var elementToRemove = document.querySelector('h1 a[href="https://pratikthorat.github.io/"]');
+  
+  // Check if the element exists before attempting to remove it
+  if (elementToRemove) {
+    // Remove the element
+    elementToRemove.parentNode.remove(); // Removes the <h1> element containing the link
+    // Alternatively, if you want to remove just the link (<a> element) and keep the <h1>, you can use:
+    // elementToRemove.remove(); // Removes just the <a> element
+  }
+});
+    </script>
   </head>
 
   <body class="dark-theme">
